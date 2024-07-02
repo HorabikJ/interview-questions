@@ -17,6 +17,13 @@
 [link-1](https://www.fivetran.com/learn/columnar-database-vs-row-database),
 [link-2](https://columnar.docs.hydra.so/organize/data-modeling/row-vs-column-tables)
 7. Difference between sub-query aka. inner select and `SELF JOIN`, which one has better performance?
+8. How would you measure the cost of a given query?
+   * In Postgres we can use `explain` or `explain analyze` command.
+9. Isolation levels in databases:
+   * `READ UNCOMMITED` 
+   * `READ COMMITED`
+   * `REPEATABLE READS`
+   * `SERIALIZABLE` 
 
 ## Multithreading
 
