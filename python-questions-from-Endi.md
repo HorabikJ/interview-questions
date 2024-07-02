@@ -1,4 +1,4 @@
-# Python 1uestions:
+# Python questions:
 
 
 ### 1. Jaka jest różnica pomiędzy list a tuple i jakie to niesie za sobą konsekwencje?
